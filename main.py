@@ -129,8 +129,8 @@ def solve_sudoku(board: Board) -> bool:
 
 if __name__ == "__main__":
     # Input and output file names
-    input_file = "sudoku_input2.txt"
-    output_file = "sudoku_output2.txt"
+    input_file = "sudoku_input3.txt"
+    output_file = "sudoku_output3.txt"
 
     try:
         # Read the puzzle from input file
